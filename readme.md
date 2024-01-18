@@ -13,7 +13,7 @@ A curated list with verything awesome on FinOps
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="./finops.png" style="max-width:600px" />
+  <img src="./finops.png" style="max-width:600px" width=600 />
 </a>
 
 <!-- description -->
