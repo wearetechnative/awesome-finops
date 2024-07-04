@@ -58,6 +58,7 @@ A curated list with verything awesome on FinOps
 - [CloudCheckr](https://cloudcheckr.com/): A comprehensive cloud management platform with a focus on cost optimization.
 - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/): An AWS service for visualizing, understanding, and managing costs.
 - [Google Cloud Billing](https://cloud.google.com/billing/docs): Google Cloud's billing and cost management resource.
+- [The Well Architecteed Tool FinOps Custom Lens](https://github.com/TheKoiFish/FinOpsCustomLens) - Custom lens in the AWS well-architected Tool with 115 different items related to FinOps grouped in 4 categories.
 
 ## Videos
 
