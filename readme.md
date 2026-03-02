@@ -59,6 +59,9 @@ A curated list with verything awesome on FinOps
 - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/): An AWS service for visualizing, understanding, and managing costs.
 - [Google Cloud Billing](https://cloud.google.com/billing/docs): Google Cloud's billing and cost management resource.
 - [The Well Architecteed Tool FinOps Custom Lens](https://github.com/TheKoiFish/FinOpsCustomLens) - Custom lens in the AWS well-architected Tool with 115 different items related to FinOps grouped in 4 categories.
+- [Cloud FinOps Skill](https://github.com/OptimNow/cloud-finops-skills): A model-agnostic FinOps knowledge skill that gives AI agents accurate expertise on billing, pricing, and optimisation across AWS, Azure, GCP, and AI platforms.
+- [FinOps Tag Compliance MCP](https://github.com/OptimNow/finops-tag-compliance-mcp): Multi-cloud tag governance MCP server with schema validation, cost attribution gap analysis, and automated bulk tagging.
+- [Tagging Policy Generator](https://tagpolgenerator.optimnow.io/): Web app to generate and export tagging policies for AWS, Azure, and GCP.
 
 ## Videos
 
