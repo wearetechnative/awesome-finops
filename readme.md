@@ -59,6 +59,7 @@ A curated list with verything awesome on FinOps
 - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/): An AWS service for visualizing, understanding, and managing costs.
 - [Google Cloud Billing](https://cloud.google.com/billing/docs): Google Cloud's billing and cost management resource.
 - [The Well Architecteed Tool FinOps Custom Lens](https://github.com/TheKoiFish/FinOpsCustomLens) - Custom lens in the AWS well-architected Tool with 115 different items related to FinOps grouped in 4 categories.
+- [Zopnight](https://zop.dev/zopnight?utm_source=wearetechnative-awesome-finops&utm_medium=listing&utm_campaign=mcp-directory): Multi-cloud cost and infrastructure governance for AWS, Azure and GCP, with resource scheduling, rightsizing and idle-resource detection.
 
 ## Videos
 
