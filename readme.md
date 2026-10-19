@@ -59,6 +59,7 @@ A curated list with verything awesome on FinOps
 - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/): An AWS service for visualizing, understanding, and managing costs.
 - [Google Cloud Billing](https://cloud.google.com/billing/docs): Google Cloud's billing and cost management resource.
 - [The Well Architecteed Tool FinOps Custom Lens](https://github.com/TheKoiFish/FinOpsCustomLens) - Custom lens in the AWS well-architected Tool with 115 different items related to FinOps grouped in 4 categories.
+- [CloudWorth](https://www.getcloudworth.com/) - Zero-dependency probe for Linux and Windows Server that checks VPS and cloud instances for overselling (CPU steal time, disk cache fakery, old CPU generation) and gives FinOps right-sizing advice. Freemium, closed source, first check free without signup. Available in 11 languages.
 
 ## Videos
 
