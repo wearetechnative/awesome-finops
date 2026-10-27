@@ -59,6 +59,7 @@ A curated list with verything awesome on FinOps
 - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/): An AWS service for visualizing, understanding, and managing costs.
 - [Google Cloud Billing](https://cloud.google.com/billing/docs): Google Cloud's billing and cost management resource.
 - [The Well Architecteed Tool FinOps Custom Lens](https://github.com/TheKoiFish/FinOpsCustomLens) - Custom lens in the AWS well-architected Tool with 115 different items related to FinOps grouped in 4 categories.
+- [VPSLedger](https://vpsledger.pages.dev/) - True monthly VPS cost (list price plus IPv4, backups and egress) for 33 plans across 15 providers, with every price sourced and dated and open JSON data (CC BY 4.0).
 
 ## Videos
 
